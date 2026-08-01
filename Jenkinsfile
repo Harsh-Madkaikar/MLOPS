@@ -7,3 +7,6 @@ pipeline {
                 echo 'Cloning repository'
                 git 'https://github.com/Harsh-Madkaikar/MLOPS.git'
             }
+        }
+    }
+}
